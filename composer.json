@@ -1,5 +1,5 @@
 {
-    "name": "SysCo/Radius",
+    "name": "sysco/radius",
     "type": "library",
     "description": "A radius client implementation in pure PHP",
     "keywords": [],
