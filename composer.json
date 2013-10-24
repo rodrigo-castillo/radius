@@ -14,5 +14,5 @@
     "autoload": {
         "psr-0": { "Radius": "." }
     },
-    "target-dir": "."
+    "target-dir": "Radius"
 }
