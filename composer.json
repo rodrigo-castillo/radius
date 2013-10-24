@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": { "SysCo\\Radius\\": "" }
+        "psr-0": { "Radius": "" }
     },
-    "target-dir": "SysCo/Radius"
+    "target-dir": "Sysco"
 }
